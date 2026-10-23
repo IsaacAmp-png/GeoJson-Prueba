@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "description": "ACA BAILABA",
+                "audio": "",
+                "video": "",
+                "image": "assets/1.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -99.46757389560885,  
+                   19.180602180387314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "description": "ACA TAMBIEN",
+                "audio": "",
+                "video": "",
+                "image": "assets/2.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.46467656505168,
+                    19.19311715359112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "description": "AQUI FUE LA PRIMERA VEZ",
+                "audio": "",
+                "video": "",
+                "image": "assets/3.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.467510,
+                    19.181455 
+                    
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "description": "ACA NO ME GUSTA",
+                "audio": "",
+                "video": "",
+                "image": "assets/4.jpeg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.46654604628345,
+                    19.181470981008367 
+                    
+                ]
+            }
+        }
+    ]
+}
